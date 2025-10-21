@@ -2,7 +2,7 @@
 
 💻 **Full Stack Software Engineer** | Passionate about building modern, responsive, and user-friendly web applications.  
 📍 Belgrade, Serbia | 📧 milanoviclukaa23@gmail.com | 📞 +0692700450  
-🌐 [GitHub](https://github.com/lucwii) | [Portfolio](https://lukamilanovic-8ehvflofa-luka-milanovics-projects.vercel.app/)  
+🌐 [GitHub](https://github.com/lucwii) | [Portfolio](https://lukamilanovic.vercel.app)  
 
 ---
 
