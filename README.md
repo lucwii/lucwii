@@ -14,7 +14,7 @@ Software engineer with hands-on experience building full-stack web applications 
 
 ## Experience
 
-**Backend Developer Intern (Backend Lead)** — Universe Force Group, Belgrade
+**Backend Developer Intern** — Universe Force Group, Belgrade
 *Jan 2026 – Mar 2026*
 
 Led backend development of a SaaS clinic management platform using NestJS and Supabase. Designed scalable REST APIs for bookings, callbacks, and patient management. Implemented appointment scheduling with availability rules and concurrency-safe booking logic. Modeled relational data with Prisma, including patient deduplication, multi-tenant access control, and timeline events. Collaborated on full-stack features integrating backend APIs with Next.js clinic dashboards and public booking flows.
@@ -23,7 +23,7 @@ Led backend development of a SaaS clinic management platform using NestJS and Su
 
 ## Projects
 
-**AI Support Platform** *(Startup)* — NestJS, PostgreSQL, Prisma, OpenAI API, Vector Embeddings
+**AI Support Platform** — NestJS, PostgreSQL, Prisma, OpenAI API, Vector Embeddings
 *Feb 2026 – Present*
 
 Architecting a multi-tenant AI support platform with a clean modular backend. Built a RAG pipeline using OpenAI embeddings and vector similarity search for context-aware responses. Designed optimized schemas and high-performance REST APIs for knowledge base management, conversations, and user roles.
