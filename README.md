@@ -1,59 +1,54 @@
-# Hi, I'm Luka Milanović! 👋
+# Hi, I'm Luka Milanović
 
-💻 **Full Stack Software Engineer** | Passionate about building modern, responsive, and user-friendly web applications.  
-📍 Belgrade, Serbia | 📧 milanoviclukaa23@gmail.com | 📞 +0692700450  
-🌐 [GitHub](https://github.com/lucwii) | [Portfolio](https://lukamilanovic.vercel.app)  
+Full Stack Software Engineer based in Belgrade, Serbia. I build scalable web applications with a focus on clean UI/UX and modern architecture.
 
----
-
-## 🌟 Summary
-Passionate Full Stack Software Engineer with hands-on experience in building modern, responsive, and user-friendly web applications. Skilled in **React, Next.js, Supabase, Java, Spring Boot, TailwindCSS, shadcn/ui**, and experienced with authentication systems, real-time features, and AI-powered integrations. Strong focus on delivering **clean UI/UX** and scalable solutions.
+📧 milanoviclukaa23@gmail.com | [GitHub](https://github.com/lucwii) | [Portfolio](https://lukamilanovic.vercel.app)
 
 ---
 
-## 🛠 Technical Skills
+## About
 
-**Frontend:** React, Next.js, TailwindCSS, shadcn/ui, TypeScript, JavaScript (ES6+)  
-**Backend / Database:** Supabase, Firebase, Spring Boot, Java, Flask, PostgreSQL  
-**Other:** REST APIs, Authentication (JWT, OAuth), Real-time Chat, AI Integrations, Git/GitHub  
-**Tools:** VS Code, Postman, Figma, npm/yarn, Docker  
+Software engineer with hands-on experience building full-stack web applications and backend systems. I work across the entire stack — from responsive frontends to REST APIs, database design, and AI integrations. I enjoy building products that are clean, performant, and built to scale.
 
 ---
 
-## 🚀 Projects
+## Experience
 
-**Project Manager App with AI Assistant** *(Next.js + Tailwind + Spring Boot + PostgreSQL)*  
-- Trello-like project management app with boards, lists, and task cards.  
-- Built REST APIs with Spring Boot and a responsive UI with Next.js and Tailwind CSS.  
-- Integrated Gemini AI to provide an intelligent assistant for project insights and user interaction.
+**Backend Developer Intern (Backend Lead)** — Universe Force Group, Belgrade
+*Jan 2026 – Mar 2026*
 
-**AI Notes App – AINotes** *(Next.js + Supabase + Tailwind + shadcn/ui)*  
-- Note-taking app with AI-powered assistance to ask questions about saved notes.  
-- Implemented authentication and dark mode for personalized user experience.  
-- Leveraged Supabase for data storage and Next.js for server-side rendering and performance.
-
-**Premier League Fantasy Tracker** *(React + Spring Boot + PostgreSQL + Python)*  
-- Fantasy football tracking app for the Premier League.  
-- Developed backend REST APIs with Spring Boot and responsive frontend with React.  
-- Implemented PostgreSQL database and Python-based data scraping scripts for real player statistics.
+Led backend development of a SaaS clinic management platform using NestJS and Supabase. Designed scalable REST APIs for bookings, callbacks, and patient management. Implemented appointment scheduling with availability rules and concurrency-safe booking logic. Modeled relational data with Prisma, including patient deduplication, multi-tenant access control, and timeline events. Collaborated on full-stack features integrating backend APIs with Next.js clinic dashboards and public booking flows.
 
 ---
 
-## 🎓 Education
-**Information Technology / Računarski fakultet** – 2023-2026  
+## Projects
+
+**AI Support Platform** *(Startup)* — NestJS, PostgreSQL, Prisma, OpenAI API, Vector Embeddings
+*Feb 2026 – Present*
+
+Architecting a multi-tenant AI support platform with a clean modular backend. Built a RAG pipeline using OpenAI embeddings and vector similarity search for context-aware responses. Designed optimized schemas and high-performance REST APIs for knowledge base management, conversations, and user roles.
+
+**AI Student Calendar / Study Planner** — Next.js, Supabase, OpenAI API, Stripe
+
+End-to-end SaaS platform for students with AI-powered study planning and personalized recommendations. Designed a scalable architecture built to support 10,000+ users. Integrated Stripe for subscription flows, billing, and access control. Currently nearing production launch.
+
+**Premier League Fantasy Tracker** — React, Spring Boot, PostgreSQL, Python
+
+Full-stack fantasy football tracker with REST APIs for player stats, teams, and league logic. Built an interactive React frontend with clear data visuals. Automated player stats updates via Python scraping scripts, reducing manual updates by 99%. Optimized PostgreSQL queries for real-time fantasy performance metrics.
 
 ---
 
-## 🌐 Languages
-- English (Fluent)  
-- Serbian  
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** React, Next.js, TailwindCSS, shadcn/ui  
+**Backend:** NestJS, Spring Boot, Laravel, Flask  
+**Database:** PostgreSQL, Supabase, MySQL, SQLite  
+**Other:** Prisma, REST APIs, JWT/OAuth, OpenAI API, Stripe, Docker, Git
 
 ---
 
-## 📌 Additional Information
-- Open to remote and on-site opportunities  
-- Enthusiastic about AI integration, modern UI frameworks, and scalable full-stack applications  
+## Education
 
----
-
-> "I love combining **modern frontend design** with **robust backend systems** to build apps that solve real problems."
+**Računarski fakultet** — Information Technology
+*Sep 2023 – Jun 2026*
